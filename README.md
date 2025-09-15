@@ -4,11 +4,11 @@
 # Hệ Thống Quản Lý Bài Hát, Nghệ Sĩ
 
 ## Được Phát Triển Bởi:
-Đặng Thanh Tùng
+Lê Đình Đức Anh
 
 ## link repo
 
-https://github.com/thanh-tung-25/Music
+https://github.com/canh8386/-anh05
 
 ## Mô Tả Ứng Dụng
 Hệ thống quản lý nhạc là một ứng dụng web giúp quản lý người dùng, nghệ sĩ, bài hát, thể loại, danh sách phát một cách hiệu quả. Ứng dụng cung cấp các chức năng CRUD, tìm kiếm, sắp xếp cho các đối tượng.
